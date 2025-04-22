@@ -29,7 +29,7 @@ export const accounts = [
   },
   {
     id: 2,
-    owner: "Ali Rehman",
+    owner: "Ali",
     movements: [
       {
         amount: 5000,
@@ -61,7 +61,7 @@ export const accounts = [
   },
   {
     id: 3,
-    owner: "Muhammad Askar",
+    owner: "Ahmed",
     movements: [
       {
         amount: 200,
